@@ -1,0 +1,6 @@
+Download your Icons8 animated JSON (Lottie) icons and save them here as:
+- home.json
+- search.json
+- wishlist.json
+- cart.json
+- profile.json

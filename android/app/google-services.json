@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "362332128362",
+    "firebase_url": "https://slaay-59153-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "slaay-59153",
+    "storage_bucket": "slaay-59153.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362332128362:android:9833853cc4c20922e97613",
+        "android_client_info": {
+          "package_name": "com.slaay.studio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt6r1hQ8098ejJSlirE-7kywXOZROvbRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
